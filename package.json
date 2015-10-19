@@ -4,7 +4,7 @@
   "description": "parse and transform streaming html using css selectors",
   "main": "index.js",
   "dependencies": {
-    "html-select": "html://github.com/davide/html-select.git",
+    "html-select": "git://github.com/davide/html-select.git",
     "html-tokenize": "^1.1.1",
     "through2": "^1.0.0",
     "duplexer2": "~0.0.2",
